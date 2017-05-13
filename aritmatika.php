@@ -7,5 +7,5 @@ echo "Harga = Rp." .$harga;
 echo "<br>";
 echo "Diskon = Rp." .($harga*$diskon); 
 echo "<br>";
-echo "Harus Bayar = Rp." .$bayar;
+echo "Bayar = Rp." .$bayar;
 ?>
